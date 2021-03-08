@@ -1,32 +1,37 @@
 {
   "month_data": {
-    "01": {
-	  "new_users": {
+
+    "month": "01",
+    "new_users": {
         "sweden": "33",
         "norway": "30"
-        }
-      },
-    "02": {
-      "new_users": {
+    }
+  },{
+    "month": "02",
+    "new_users": {
         "denmark": "23",
-        "norway": "-1"
-      }
-    },
-    "03": {
-      "new_users": {
-        "sweden": "43",
-        "norway": "-1"
-      }
-    },
-    "04": {
-      "new_users": {
-        "sweden": "89",
-        "pakistan": "34"
-	  }
+        "norway: "-1"
     }
   },
-  "info": {
-    "total_users": "null",
-    "generated_at": "2021/05/05 22:21:12"
+  {
+    "month": 
+    
+    
+    "03",
+    "new_users": {
+        "sweden": "43",
+        "norway": "-1"
+    
+  },{
+    "month": "04",
+    "new_users": {
+        "sweden": "89",
+
+        "pakistan": "34"
+    }}
   }
-}
+  ],
+  "total_users:" "null",
+
+  "generated_at" "2021/05/05 22:21:12"
+}   
